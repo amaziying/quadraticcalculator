@@ -1,5 +1,3 @@
-//  Lab Assignment 6 Task 1
-//  <lab0601.cpp>
 // This program computes the roots of a quadratic equation
 //  Created by Ziying Zhang
 
